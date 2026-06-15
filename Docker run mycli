@@ -1,0 +1,2 @@
+docker run --cap-add sys_ptrace -it --rm swift swift
+docker run  -it --name swiftfun swift /bin/bash
